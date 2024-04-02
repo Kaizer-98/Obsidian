@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "65b83963321f558c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management 101/dadadasdasdasd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management 101/dadadasdasdasd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management 101/dadadasdasdasd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +159,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "65b83963321f558c",
+  "active": "a4166005786cc375",
   "lastOpenFiles": [
     "Management 101/dadadasdasdasd.md",
     "Economics 101/Principles of Economics.md",
