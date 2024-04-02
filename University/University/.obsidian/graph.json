@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#management_101  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#economics_101  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.10343035343035,
+  "lineSizeMultiplier": 0.695945945945946,
+  "collapse-forces": false,
+  "centerStrength": 0.653846153846154,
+  "repelStrength": 14.1580041580042,
+  "linkStrength": 1,
+  "linkDistance": 97,
+  "scale": 0.885498954315045,
+  "close": true
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "bfe2d6f119e98709",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab9d8ab457a563f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7bd30552557b487",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3058a5c9c07f7631",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4b5e4d0034d09f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4166005786cc375",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfdeee5b4683c895",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sync",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a03a9a5093653f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd396356b0436f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ec1e11612fdbe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5b3d3989e131bc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ade8543f008de36a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed1644229b2fbd34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a65f23274717f14f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fbb955c4ead50d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eb758af75c024e3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "bfdeee5b4683c895",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Economics 101/Production Posibilities Frontier.md",
+    "Management 101/Social Role of the Firm.md",
+    "Economics 101/Demand, Supply and Market Equilibrium.md",
+    "Economics 101/Economics 101.md",
+    "Economics 101/Principles of Economics.md",
+    "Management 101/Management 101.md",
+    "Management 101/Bureaucratic Management.md",
+    "Management 101/Origin of organizations.md",
+    "Management 101/Strategic analysis framework and identification of competitive advantages.md",
+    "Management 101/Classical Management Theories.md",
+    "Management 101/Porter's 5 Forces.md",
+    "Management 101/Value Chain.md",
+    "Management 101/Porter's generic competitive strategies.md",
+    "Management 101/Value-Based Strategy.md",
+    "Management 101/What is Strategy.md",
+    "Management 101/Scientific Management.md",
+    "Management 101/Neoclassical and Modern Management Theories.md",
+    "Management 101/Human Relations Movement.md",
+    "Management 101/Evolution of Management.md",
+    "Management 101/Behavioural Movement.md",
+    "Management 101/Administrative Management.md",
+    "2024-04-02.md",
+    "Untitled 3.md",
+    "Python",
+    "Álgebra",
+    "Desafios Globales",
+    "Economics 101",
+    "Management 101",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
