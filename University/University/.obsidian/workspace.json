@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab9d8ab457a563f",
+        "id": "6c9c67485cd53b54",
         "type": "tabs",
         "children": [
           {
-            "id": "d7bd30552557b487",
+            "id": "43a3ba25780ab64e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Álgebra/Drawing 2024-04-03 12.28.41.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a7d4c4c89d8685da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Coro/V. Johnson - Tres Canciones de los Elementos-1 (1).pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fd396356b0436f79",
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coro/V. Johnson - Tres Canciones de los Elementos-1 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Coro/V. Johnson - Tres Canciones de los Elementos-1 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management 101/dadadasdasdasd.md"
+                "file": "Coro/V. Johnson - Tres Canciones de los Elementos-1 (1).pdf"
               }
             }
           },
@@ -140,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,39 +176,43 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a4166005786cc375",
+  "active": "a7d4c4c89d8685da",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Coro",
+    "Coro/V. Johnson - Tres Canciones de los Elementos-1 (1).pdf",
+    "Álgebra/Algebra 0304.webm",
+    "Álgebra/Drawing 2024-04-03 12.28.41.excalidraw.svg",
+    "Álgebra/Drawing 2024-04-03 12.28.41.excalidraw.md",
+    "Álgebra/Ecuaciones de 2do grado (cuadraticas).md",
+    "Management 101/Origin of organizations.md",
+    "Management 101/Management 101.md",
+    "Management 101/Social Role of the Firm.md",
+    "Management 101/Summary Unit 1 Management 101.pdf",
+    "Management 101/Human Relations Movement.md",
+    "Management 101/Strategic analysis framework and identification of competitive advantages.md",
+    "Management 101/Resumen certamen 1 Ingrid.md",
+    "Management 101/Porter's 5 Forces.md",
+    "Management 101/Neoclassical and Modern Management Theories.md",
+    "transaction costs.md",
+    "2024-04-02.md",
     "Management 101/dadadasdasdasd.md",
     "Economics 101/Principles of Economics.md",
     "Untitled.canvas",
     "Economics 101/Production Posibilities Frontier.md",
-    "Management 101/Social Role of the Firm.md",
     "Economics 101/Demand, Supply and Market Equilibrium.md",
     "Economics 101/Economics 101.md",
-    "Management 101/Management 101.md",
     "Management 101/Bureaucratic Management.md",
-    "Management 101/Origin of organizations.md",
-    "Management 101/Strategic analysis framework and identification of competitive advantages.md",
     "Management 101/Classical Management Theories.md",
-    "Management 101/Porter's 5 Forces.md",
     "Management 101/Value Chain.md",
     "Management 101/Porter's generic competitive strategies.md",
     "Management 101/Value-Based Strategy.md",
     "Management 101/What is Strategy.md",
     "Management 101/Scientific Management.md",
-    "Management 101/Neoclassical and Modern Management Theories.md",
-    "Management 101/Human Relations Movement.md",
-    "Management 101/Evolution of Management.md",
-    "Management 101/Behavioural Movement.md",
-    "Management 101/Administrative Management.md",
-    "2024-04-02.md",
-    "Untitled 3.md",
     "Python",
     "Álgebra",
     "Desafios Globales",
     "Economics 101",
-    "Management 101",
-    "create a link.md",
-    "Welcome.md"
+    "Management 101"
   ]
 }

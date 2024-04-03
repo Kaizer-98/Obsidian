@@ -8,4 +8,4 @@
 
 - ## [[Strategic analysis framework and identification of competitive advantages]]
 
-
+- ## [[Resumen certamen 1 Ingrid]]
